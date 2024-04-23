@@ -1,0 +1,195 @@
+
+/* CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 CODE 01 */
+
+/*
+ body {
+  background-color: orange;
+  font-family: sans-serif;
+  margin: 0;
+} 
+
+.container {
+    background-color: white;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center; 
+  }
+  
+  h1 {
+    color: green;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: smaller;
+    color: green;
+    margin-bottom: 10px; 
+  }
+  
+  button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  */
+
+
+
+/* CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 CODE 02 */
+ 
+  /*
+   body {
+  background-color: orange;
+  font-family: sans-serif;
+  margin: 0;
+} 
+  
+  h1 {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px bla;
+    width: 300px;
+  margin: 10px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  hr {
+    border: 1px solid orange;
+    margin: 10px 0;
+  }
+  
+  p {
+    line-height: 1.5;
+  } */
+
+
+
+/* CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 CODE 03 */
+
+    /*
+     body {
+  background-color: orange;
+  font-family: sans-serif;
+  margin: 0;
+}
+    
+    h1 {
+      text-align: center;
+      padding: 20px 0;
+    }
+    
+    form {
+      background-color: white;
+      width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+    
+    input[type="text"],
+    input[type="email"],
+    textarea {
+      width: 100%;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      box-sizing: border-box;
+      margin-bottom: 10px;
+    }
+    
+    textarea {
+      height: 150px;
+    }
+    
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    button:hover {
+      background-color: #45a049;
+    } */
+
+
+
+  /* CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 CODE 04 */ 
+  
+  body {
+    font-family: sans-serif;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: orange;
+  }
+  
+  h1 {
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  form {
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
